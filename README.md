@@ -23,13 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-um video curto sobre cachorro 
+video sobre uma raça de cachorro
 
 ## 🤖 Tecnologias Utilizadas
-invideo.io/
+invideo.io
 
 ## 🧐 Processo de Criação
-solicitei a ia que criasse um video sobre o tema 
+solicitei a ia que criasse um video sobre esse tipo de cachorro 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
